@@ -1,11 +1,11 @@
 ::selection {
 	color: #fff;
-	background: #65c178;
+	background: #F489B5;
 }
 
 ::-moz-selection {
 	color: #fff;
-	background: #65c178;
+	background: #F489B5;
 }
 
 html, body {
@@ -105,7 +105,7 @@ img {
 	font-weight: 700;
 	text-transform: uppercase;
 	position: relative;
-	
+
 	-webkit-animation: Navbar 1.5s normal; /* Safari 4+ */
 	-moz-animation:    Navbar 1.5s normal; /* Fx 5+ */
 	-o-animation:      Navbar 1.5s normal; /* Opera 12+ */
@@ -150,7 +150,7 @@ img {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-	color: #65c178;
+	color: #F489B5;
 	background: none;
 }
 
@@ -189,7 +189,7 @@ img {
 
 .navbar-default .navbar-nav .open a, .navbar-default .navbar-nav .open a:hover, .navbar-default .navbar-nav .open a:focus {
 	background: none;
-	color: #65c178;
+	color: #F489B5;
 }
 
 .nav .dropdown-menu li a {
@@ -201,7 +201,7 @@ img {
 
 .contentpage .affix .nav .dropdown-menu .active a, .contentpage .dropdown-menu .active a:hover, .contentpage .dropdown-menu .active a:focus {
 	color: #fff;
-	background-color: #65c178;
+	background-color: #F489B5;
 }
 
 .navbar-default .navbar-toggle {
@@ -220,15 +220,15 @@ img {
 }
 
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
-	background-color: #65c178;
+	background-color: #F489B5;
 }
 
 .affix.navbar-default .navbar-toggle {
-	border: 2px solid #65c178;
+	border: 2px solid #F489B5;
 }
 
 .affix.navbar-default .navbar-toggle .icon-bar {
-	background-color: #65c178;
+	background-color: #F489B5;
 }
 
 .affix.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -236,7 +236,7 @@ img {
 }
 
 .affix.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
-	background-color: #65c178;
+	background-color: #F489B5;
 }
 
 /** NAV ON SCROLL  **/
@@ -260,7 +260,7 @@ img {
 }
 
 .homepage .affix  h1 a.navbar-brand:hover, .contentpage .affix  h1 a.navbar-brand:hover {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .homepage .affix  h1 a.navbar-brand span, .contentpage .affix  h1 a.navbar-brand span {
@@ -268,8 +268,8 @@ img {
 }
 
 .homepage .affix .btn, .contentpage .affix .btn {
-	color: #65c178;
-	border: 2px solid #65c178;
+	color: #F489B5;
+	border: 2px solid #F489B5;
 }
 
 .homepage .affix .nav li a, .contentpage .affix .nav li a:before, .contentpage .affix .nav li a, .contentpage .affix .nav li a:before {
@@ -277,7 +277,7 @@ img {
 }
 
 .homepage .affix .nav li a:hover, .contentpage.affix .nav li.active a, .contentpage .affix .nav li a:hover, .contentpage .affix .nav li.active a {
-	color: #65c178;
+	color: #F489B5;
 }
 
 
@@ -286,7 +286,7 @@ img {
 #home_carousel {
 	width: 100%;
 	height: 100%;
-	background: #65c178;
+	background: #F489B5;
 	overflow: hidden;
 }
 
@@ -435,7 +435,7 @@ img {
 	transition: all 0.5s ease;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
-	background-color: #65c178 !important;
+	background-color: #F489B5 !important;
 }
 
 .col3 .roundal:hover, .centered .roundal:hover {
@@ -491,8 +491,8 @@ img {
 }
 
 .btn.btn-green {
-	color: #65c178;
-	border: 2px solid #65c178;
+	color: #F489B5;
+	border: 2px solid #F489B5;
 	letter-spacing: 3px;
 }
 
@@ -544,19 +544,19 @@ img {
 	float: left;
 	position: relative;
 	overflow: hidden;
-	background: #65c178;
+	background: #F489B5;
 	transition: all 0.5s ease;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 }
 
 #carousel div:hover img {
-	-khtml-opacity:.20; 
-	-moz-opacity:.20; 
+	-khtml-opacity:.20;
+	-moz-opacity:.20;
 	-ms-filter:"alpha(opacity=20)";
 	filter:alpha(opacity=20);
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.2);
-	opacity:.20; 
+	opacity:.20;
 	-webkit-transform: scale(1.3) rotate(7deg);
 	-moz-transform: scale(1.3) rotate(7deg);
 	transform: scale(1.3) rotate(7deg);
@@ -642,7 +642,7 @@ img {
 }
 
 #c-carousel .pager a.selected, #c-carousel .pager a:hover {
-	background: #65c178;	
+	background: #F489B5;
 }
 
 
@@ -661,7 +661,7 @@ img {
 }
 
 .rehome h4 a {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .rehome h4 a:hover {
@@ -720,15 +720,15 @@ img {
 	left: 50%;
 	margin-left: -64px;
 	border: 3px solid #fff;
-	background: #65c178;
+	background: #F489B5;
 	transition: all 0.5s ease;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 }
 
 .staff .member div span:hover img {
-	-khtml-opacity:.20; 
-	-moz-opacity:.20; 
+	-khtml-opacity:.20;
+	-moz-opacity:.20;
 	-ms-filter:"alpha(opacity=20)";
 	filter:alpha(opacity=20);
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.2);
@@ -857,7 +857,7 @@ img {
 }
 
 .prices .costs div p.per-night {
-	color: #65c178;
+	color: #F489B5;
 	font-weight: 700;
 }
 
@@ -885,7 +885,7 @@ img {
 .services-single h2, .adoption-single h2 {
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
-	text-transform: none;	
+	text-transform: none;
 }
 
 .social-share {
@@ -964,7 +964,7 @@ img {
 }
 
 .adoption div a, .adoption div a img {
-	background: #65c178;
+	background: #F489B5;
 	display: block;
 	overflow: hidden;
 	transition: all 0.5s ease;
@@ -995,12 +995,12 @@ img {
 }
 
 .adoption div:hover img {
-	-khtml-opacity:.20; 
-	-moz-opacity:.20; 
+	-khtml-opacity:.20;
+	-moz-opacity:.20;
 	-ms-filter:"alpha(opacity=20)";
 	filter:alpha(opacity=20);
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.2);
-	opacity:.20; 
+	opacity:.20;
 	-webkit-transform: scale(1.3) rotate(7deg);
 	-moz-transform: scale(1.3) rotate(7deg);
 
@@ -1040,7 +1040,7 @@ img {
 	top: 100%;
 	content: attr(data-hover);
 	font-weight: 700;
-	color: #65c178;
+	color: #F489B5;
 	-webkit-transform: translate3d(0,0,0);
 	-moz-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
@@ -1075,7 +1075,7 @@ img {
 
 .contentpage #c-carousel .featured h3 span {
 	font-size: 14px;
-	color: #65c178;
+	color: #F489B5;
 	text-align: left;
 	background: none;
 	padding: 0;
@@ -1136,7 +1136,7 @@ img {
 }
 
 .prev-next span.name, .prev-next a:hover {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .prev-next .prev-page {
@@ -1170,7 +1170,7 @@ img {
     padding:4px;
     color:#fff;
     font-weight: 700;
-    background:#65c178;
+    background:#F489B5;
     text-align:center;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -1179,7 +1179,7 @@ img {
 
 .adoption-single ol li span {
 	display: inline-block;
-	color: #65c178;
+	color: #F489B5;
 	font-weight: 700;
 	width: 100px;
 }
@@ -1319,7 +1319,7 @@ img {
 }
 
 .footer a {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .footer a:hover {
@@ -1351,7 +1351,7 @@ img {
 }
 
 .footer ul li a:hover {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .footer .contact-info span {
@@ -1361,7 +1361,7 @@ img {
 }
 
 .footer .contact-info .c-details {
-	color: #65c178;
+	color: #F489B5;
 }
 
 .footer .contact-info .social {
@@ -1383,7 +1383,7 @@ img {
 }
 
 .footer .contact-info .social a:hover {
-	background-color: #65c178;
+	background-color: #F489B5;
 	transform: rotate(360deg);
 	-moz-transform: rotate(360deg);
 	-webkit-transform: rotate(360deg);
@@ -1411,7 +1411,7 @@ img {
 }
 
 .footer .copyright a:hover {
-	color: #65c178;
+	color: #F489B5;
 }
 
 /** JQUERY UI  **/
@@ -1449,7 +1449,7 @@ img {
 }
 
 #tabs ul li.ui-tabs-active a {
-	color: #65c178;
+	color: #F489B5;
 }
 
 #tabs ul li.ui-tabs-active a:active, #tabs ul li.ui-tabs-active a:focus, #tabs ul li:active, #tabs ul li:focus {
@@ -1477,8 +1477,8 @@ img {
 }
 
 #accordion h4:hover {
-	border-color: #65c178;
-	color: #65c178;
+	border-color: #F489B5;
+	color: #F489B5;
 	cursor: pointer;
 }
 
@@ -1673,50 +1673,50 @@ img {
 /**  MEDIA QUERIES  **/
 
 @media (max-width: 1200px) {
-	
+
 	#home_carousel {
 		height: auto;
 	}
-	
+
 	#home_carousel .carousel-caption h2 {
 		font-size: 48px;
 	}
-	
+
 	.nav li a {
 		padding: 0 10px;
 	}
-	
-	
+
+
 	#home_carousel .carousel-caption h2 {
 		font-size: 40px;
 	}
-	
+
 	#home_carousel .carousel-caption p {
 		font-size: 18px;
 	}
-	
+
 	#c-carousel .pager {
 		margin-top: 20px;
 	}
-	
+
 	#c-carousel {
 		min-height: 305px;
 	}
-	
+
 	.contentpage #c-carousel .featured {
 		height: 256px;
 		padding: 20px;
 	}
-	
+
 	.contentpage #c-carousel img {
 		min-height: 256px;
 	}
-	
-	
+
+
 	.contentpage #c-carousel .pager {
 		margin-top: 50px;
 	}
-	
+
 }
 
 @media (max-width: 767px) {
@@ -1724,130 +1724,129 @@ img {
 	.navbar h1 {
 		margin-left: 15px;
 	}
-	
+
 	.navbar-nav {
 		float: none;
-		background: #65c178;
+		background: #F489B5;
 		margin: 20px 0 0 0;
 	}
-	
+
 	.navbar-nav li.active {
 		color: #6d6d6d !important;
 	}
-	
+
 	.navbar-toggle {
 		margin-top: 20px;
 	}
-	
+
 	.navbar-collapse.collapse.in, .navbar-collapse.collapsing {
 		padding-left: 0;
 		padding-right: 0;
 	}
-	
+
 	.navbar-default .navbar-collapse {
 		border: none;
 		box-shadow: none;
 	}
-	
+
 	.navbar-default .navbar-collapse ul li {
 		margin: 0 0 10px 0;
 	}
-	
+
 	.navbar-nav .purchase-btn {
 		display: none;
 	}
-	
+
 	.homepage .affix .nav li a, .homepage .affix .nav li a:before {
 		color: #fff;
 	}
-	
+
 	.homepage .affix .nav li a:hover, .homepage .affix .nav li.active a {
 		color: #6d6d6d;
 	}
-	
+
 	.navbar-default .navbar-nav .open a, .navbar-default .navbar-nav .open a:hover, .navbar-default .navbar-nav .open a:focus {
 		color: #6d6d6d;
 	}
-	
+
 	.adoption div a img {
 		width: 100%;
 	}
-	
+
 	.purchase .purchase-button {
 		text-align: left;
 		margin-top: 30px;
 	}
-	
+
 	.purchase p {
 		line-height: 1.3em;
 	}
-	
+
 	.centered h3 {
 		width: 100%;
 		font-size: 26px;
 	}
-	
+
 	.rehome h4 {
 		font-size: 26px;
 	}
-	
+
 	#home_carousel .carousel-caption h2 {
 		font-size: 28px;
 		margin-top: 20px;
 	}
-	
+
 	#home_carousel .carousel-caption p, #home_carousel .btn, .carousel-control.right, .carousel-control.left {
 		display: none;
 	}
-	
+
 	.prev-next .prev-page, .prev-next .next-page {
 		width: 14px;
 		overflow: hidden;
 		height: 16px;
 	}
-	
+
 	.contentpage #c-carousel {
 		margin-top: 80px;
 	}
-	
+
 	.prices .costs {
 		margin-bottom: 20px;
 	}
-	
+
 	.contentpage #c-carousel .featured {
 		height: 260px;
 	}
-	
+
 	.services-single .col-md-6 {
 		margin-bottom: 20px;
 	}
-	
+
 	.social-share p {
 		float: none;
 		margin-bottom: 10px;
 	}
-	
+
 	.social-share .twitter-share-button {
 		margin-left: 0;
 	}
-	
+
 	.staff .member {
 		margin-bottom: 100px;
 	}
-	
+
 	.centered {
 		margin-top: 50px;
 	}
-	
+
 	#map {
 		height: 290px;
 		margin: 50px 0;
 	}
-	
+
 	.col-md-3 .contact-info {
 		padding: 0;
 		margin-top: 20px;
 	}
-	
+
 }
-  
