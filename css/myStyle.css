@@ -1,0 +1,15 @@
+
+div.logo > img, div.logo > h1 {
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.logo > img {
+  width: 100px;
+  margin: 10px 20px 0px 0px;
+}
+
+div.logo > h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
