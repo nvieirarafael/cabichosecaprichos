@@ -1,4 +1,4 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation" data-scroll-header>
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -23,16 +23,16 @@
                     <a data-scroll href="#home_carousel" title="Inicio"><span data-hover="Inicio">Inicio</span></a>
                 </li>
                 <li>
-                    <a href="prices.html" title="Preços"><span data-hover="Preços">Preços</span></a>
+                    <a data-scroll href="#services" title="Serviços"><span data-hover="Serviços">Serviços</span></a>
                 </li>
                 <li>
-                    <a href="about.html" title="Sobre"><span data-hover="Sobre">Sobre</span></a>
+                    <a data-scroll href="#prices" title="Preços"><span data-hover="Preços">Preços</span></a>
                 </li>
                 <li>
-                    <a href="services.html" title="Serviços"><span data-hover="Serviços">Serviços</span></a>
+                    <a data-scroll href="#coverage" title="Cobertura"><span data-hover="Cobertura">Cobertura</span></a>
                 </li>
                 <li>
-                    <a href="contact.html" title="Contatos"><span data-hover="Contatos">Contatos</span></a>
+                    <a data-scroll href="#contacts" title="Entre em contato"><span data-hover="Entre em contato">Entre em contato</span></a>
                 </li>
             </ul>
         </div>

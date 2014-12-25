@@ -1,4 +1,4 @@
-<div class="prices" data-stellar-background-ratio=".3">
+<div id="prices" class="prices" data-stellar-background-ratio=".3">
     <div class="container">
         <div class="row">
             <div class="col-md-3 costs">

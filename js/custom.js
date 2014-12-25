@@ -92,4 +92,9 @@ $(function() {
 			easing: "easeInOutCubic"
 		});
 	}
+
+	if(window.location.hash != '' && $(window.location.hash).length > 0){
+		smoothScroll.animateScroll(null, window.location.hash);
+	}
+
 });

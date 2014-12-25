@@ -13,3 +13,26 @@ div.logo > h1 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
+
+.prices {
+  margin: 15px 0 0;
+}
+
+.content.contacts {
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+
+#coverage .centered {
+  margin-top: 40px;
+}
+
+#map {
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+
+#c-carousel .pager {
+  margin: 20px auto 0 auto;
+}
