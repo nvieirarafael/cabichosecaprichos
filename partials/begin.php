@@ -23,3 +23,4 @@
             <link rel="stylesheet" type="text/css" href="css/ie8.css" />
         <![endif]-->
     </head>
+    <body class="homepage">

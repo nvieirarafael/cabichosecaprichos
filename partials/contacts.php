@@ -20,13 +20,13 @@
         <div class="col-md-3">
             <ul class="contact-info">
                 <li class="telephone">
-                    0203 011 0448
+                    (19) 99196-3638
                 </li>
                 <li class="address">
-                    123 High St, Essex, UK
+                    Campinas, São Paulo
                 </li>
                 <li class="mail">
-                    info@petcare.com
+                    camila_a_dias@hotmail.com
                 </li>
             </ul>
         </div>
