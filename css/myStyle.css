@@ -36,3 +36,24 @@ div.logo > h1 {
 #c-carousel .pager {
   margin: 20px auto 0 auto;
 }
+
+.costs.title > div {
+  min-height: 0px !important;
+}
+
+.costs.title > div h4 {
+  margin-bottom: 0px !important;
+  padding: 25px 0 20px !important;
+}
+
+.costs.title > div p {
+  margin: 10px 10px 0 10px !important;
+}
+
+.costs > div {
+  min-height: 310px;
+}
+
+.costs div p.panel.panel-info {
+  padding: 10px;
+}

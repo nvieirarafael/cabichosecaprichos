@@ -1,4 +1,3 @@
-<!-- Footer -->
 <div class="footer">
   <div class="container">
     <div class="row">
@@ -13,25 +12,18 @@
         <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram.</p>
         <p><a href="#" title="">Read this post&hellip;</a></p>
       </div>
-      <div class="col-md-3">
-        <h6>You may need this</h6>
-        <ul>
-          <li><a href="#" title="">Home</a></li>
-          <li><a href="#" title="">Contact us</a></li>
-          <li><a href="#" title="">FAQ</a></li>
-          <li><a href="#" title="">Terms &amp; conditions</a></li>
-          <li><a href="#" title="">Privacy policy</a></li>
-        </ul>
-      </div>
+      <?php include('partials/miniNavigation.php'); ?>
       <div class="col-md-3 contact-info">
         <h6>Keep in touch</h6>
         <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
         <p class="social">
-          <a href="#" class="facebook"></a> <a href="#" class="pinterest"></a> <a href="#" class="twitter"></a>
+          <a href="https://www.facebook.com/cabichosecaprichos" class="facebook"></a>
+          <!-- <a href="#" class="pinterest"></a>
+          <a href="#" class="twitter"></a> -->
         </p>
         <p class="c-details">
-          <span>Mail</span> <a href="#" title="">info@petcare.com</a><br >
-          <span>Tel</span> 0203 000 444
+          <span>Mail</span> <a href="#" title="">camila_a_dias@hotmail.com</a><br >
+          <span>Tel</span> (19) 99196-3638
         </p>
       </div>
     </div>
@@ -42,4 +34,3 @@
     </div>
   </div>
 </div>
-<!-- Footer end -->
