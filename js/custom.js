@@ -49,8 +49,9 @@ $(function() {
 		$('#map').gmap3({
 			map: {
 			    options:{
-			        zoom:16,
-			        center: [51.576084, 0.488736],
+			        zoom:12,
+			        minZoom: 13,
+			        center: [-22.921465, -47.101068],
 			        mapTypeId: google.maps.MapTypeId.MAP,
 			        mapTypeControl: false,
 			        mapTypeControlOptions: {
@@ -62,16 +63,35 @@ $(function() {
 			    }
 			},
 			marker:{
-			    latLng: [51.576084, 0.488736],
+			    latLng: [-22.921465, -47.101068],
 			    options: {
 				    icon: new google.maps.MarkerImage(
-				        "images/map-pin.png", new google.maps.Size(223, 167, "px", "px")
+				        "images/map-pin.png", new google.maps.Size(136, 136, "px", "px")
 				    )
 			    }
-			 }
+			},
+			polygon: {
+				options: {
+					strokeColor: "#FF0000",
+				    strokeOpacity: 0.8,
+				    strokeWeight: 2,
+				    fillColor: "#FF0000",
+				    fillOpacity: 0.35,
+				    paths: [
+						[-22.901004, -47.112122],
+						[-22.902981, -47.120705],
+						[-22.906459, -47.126455],
+						[-22.916184, -47.125254],
+						[-22.926856, -47.125340],
+						[-22.938792, -47.094269],
+						[-22.928990, -47.087746],
+						[-22.925196, -47.071953],
+						[-22.911598, -47.077789],
+						[-22.902427, -47.092209]
+				    ],
+				},
 			}
-
-		);
+		});
 	}
 
 	// delegate calls to data-toggle="lightbox"
