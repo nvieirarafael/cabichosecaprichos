@@ -101,7 +101,7 @@ img {
 
 .nav li a {
 	font-family: 'Cabin', sans-serif;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
 	position: relative;
@@ -113,7 +113,7 @@ img {
 }
 
 .navbar-default .navbar-nav li a {
-	color: #fff;
+	color: #6d6d6d;
 }
 
 .nav li a {

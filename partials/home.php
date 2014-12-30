@@ -4,23 +4,20 @@
         <li data-target="#home_carousel" data-slide-to="0" class="active"></li>
         <li data-target="#home_carousel" data-slide-to="1"></li>
         <li data-target="#home_carousel" data-slide-to="2"></li>
-        <li data-target="#home_carousel" data-slide-to="3"></li>
-        <li data-target="#home_carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="images/carousel/banner.jpg" alt="" />
+            <img src="images/carousel/1.png" alt="" />
         </div>
         <div class="item">
-            <img src="images/carousel/banner02.jpg" alt="" />
+            <img src="images/carousel/2.png" alt="" />
         </div>
         <div class="item">
-            <img src="images/carousel/banner03.jpg" alt="" />
+            <img src="images/carousel/3.png" alt="" />
         </div>
-
-        <div class="item">
+        <!-- <div class="item">
             <img src="images/carousel/pitoco.png" alt="" />
             <div class="carousel-caption">
                 <h2>Lorem ipsum delor sit amet</h2>
@@ -39,7 +36,7 @@
                     <button type="submit" class="btn btn-lg btn-default">Learn more</button>
                 </form>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <!-- Controls -->
