@@ -1,18 +1,18 @@
 <div class="container content contacts" id="contacts">
     <div class="row">
         <div class="col-md-9">
-            <form role="form" id="contact_form">
+            <form role="form" id="contact_form" action="/sendEmail.php" method="POST">
                 <div class="form-group">
                     <label for="InputName">Seu nome</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Seu nome">
+                    <input type="text" class="form-control" id="InputName" name="nome" placeholder="Seu nome">
                 </div>
                 <div class="form-group">
                     <label for="InputEmail">Seu email</label>
-                    <input type="email" class="form-control" id="InputEmail" placeholder="Seu email">
+                    <input type="email" class="form-control" id="InputEmail" name="email" placeholder="Seu email">
                 </div>
                 <div class="form-group">
                     <label for="InputMesaagel">Sua mensagem</label>
-                    <textarea class="form-control" id="Message" placeholder="Sua mensagem" rows="8"></textarea>
+                    <textarea class="form-control" id="Message" name="message" placeholder="Sua mensagem" rows="8"></textarea>
                 </div>
                 <button type="submit" class="btn btn-default btn-green">Enviar</button>
             </form>
