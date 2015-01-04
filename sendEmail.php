@@ -9,8 +9,8 @@ if(!empty($nome) &&
    !empty($message) && filter_var($email, FILTER_VALIDATE_EMAIL)){
 
   $to      = 'cabichosecaprichos@gmail.com';
-  $subject = 'Mensagem de $nome a partir do Site';
-  $message .= "\r\n\r\n De: $nome \r\n Email: $Email";
+  $subject = "Mensagem de $nome a partir do Site";
+  $message .= "\r\n\r\n De: $nome \r\n Email: $email";
   $headers = 'From: cabichosecaprichos@gmail.com' . "\r\n" .
              'Reply-To: cabichosecaprichos@gmail.com' . "\r\n" .
              'X-Mailer: PHP/' . phpversion();
