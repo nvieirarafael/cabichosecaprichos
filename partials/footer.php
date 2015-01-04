@@ -29,7 +29,7 @@
     </div>
     <div class="row">
       <div class="col-md-12 copyright">
-        <p>&copy; Copyright 2014. All rights reserved. <a href="#" title="PetCare wordpress theme">PetCare wordpress theme</a></p>
+        <p>&copy; Copyright 2015. Todos os direitos reservados. Desenvolvido por <a href="mailto:nvieirarafael@gmail.com" title="nvieirarafael@gmail.com">nvieirarafael@gmail.com</a></p>
       </div>
     </div>
   </div>
