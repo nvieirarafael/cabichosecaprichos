@@ -7,6 +7,8 @@
 
         <title>CaBichos e Caprichos</title>
 
+        <link rel="shortcut icon" href="/favicon.ico">
+
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <link href="css/myStyle.css" rel="stylesheet">
